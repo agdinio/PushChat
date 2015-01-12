@@ -6,7 +6,7 @@
 //  Copyright (c) 2014 Relly. All rights reserved.
 //
 //
-//music
+//MOVIES
 #import <UIKit/UIKit.h>
 
 @interface MyResponder : NSObject <UIApplicationDelegate>
